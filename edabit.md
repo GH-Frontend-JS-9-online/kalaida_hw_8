@@ -15,6 +15,27 @@ b. Arrays
   2. Challenge 2<br>
     URL: https://edabit.com/challenge/hxyvTffvdT4E238CY <br>
     IMAGE: http://prntscr.com/qcp9w0
+  3. Challenge 3<br>
+    URL: https://edabit.com/challenge/3Efavz8YmSBia4p8s <br>
+    IMAGE: http://prntscr.com/qcr0s7
+  4. Challenge 4<br>
+    URL: https://edabit.com/challenge/MXChCnzCSBobgY4Ex <br>
+    IMAGE: http://prntscr.com/qcr2o9
+  5. Challenge 5<br>
+    URL: https://edabit.com/challenge/ZN5cpGPNRS3nrjMo5 <br>
+    IMAGE: http://prntscr.com/qcr7tc
+  6. Challenge 6<br>
+    URL: https://edabit.com/challenge/TwJghdCGSbDywLZz7 <br>
+    IMAGE: http://prntscr.com/qcraml
+  7. Challenge 7<br>
+    URL: https://edabit.com/challenge/QtcPzxgcZJQdsfdMS <br>
+    IMAGE: http://prntscr.com/qcrcy9
+  8. Challenge 8<br>
+    URL: https://edabit.com/challenge/GNgCfKHWfQwByBNqa <br>
+    IMAGE: http://prntscr.com/qcrjvg
+  9. Challenge 9<br>
+    URL: https://edabit.com/challenge/ebm9Yo3nxxniskr64 <br>
+    IMAGE: http://prntscr.com/qcro2s
     
 c. Loops
 -
