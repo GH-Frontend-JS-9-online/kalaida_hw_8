@@ -110,12 +110,12 @@ console.log(myTamagochi);
     tamagochiHappiness.innerHTML = myTamagochi.happiness;
     tamagochiFood.innerHTML = myTamagochi.food;
     tamagochiClean.innerHTML = myTamagochi.tamagochiClean;
+    if(myTamagochi.happiness < 0 || myTamagochi.food < 0 || myTamagochi.tamagochiClean < 0) {
+      alert('Oh no!!! Your Tamagochi is dead!!');
+      alert('He lived ' + time.toFixed(3) + 's');
+      location.reload();
+    }
   }, 5000)
-  if(myTamagochi.happiness <= 0 || myTamagochi.food <= 0 || myTamagochi.tamagochiClean <= 0) {
-    alert('Oh no!!! Your Tamagochi is dead!!');
-    alert('He lived ' + time.toFixed(3) + 's');
-    location.reload();
-  }
 })();
 
 document.querySelector('#eat').addEventListener('click', function () {
